@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\bin\Debug\netstandard2.0\MyFirstAppMonkeyFinder.deps.json
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\bin\Debug\netstandard2.0\MyFirstAppMonkeyFinder.dll
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\bin\Debug\netstandard2.0\ref\MyFirstAppMonkeyFinder.dll
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\bin\Debug\netstandard2.0\MyFirstAppMonkeyFinder.pdb
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MyFirstAppMonkeyFinder.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MyFirstAppMonkeyFinder.AssemblyInfo.cs
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MyFirstAppMonkeyFinder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MyFirstAppMonkeyFinder.dll
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\ref\MyFirstAppMonkeyFinder.dll
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MyFirstAppMonkeyFinder.pdb
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\View\MonkeyDetailView.xaml.g.cs
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\View\MonkeyListView.xaml.g.cs
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MyFirstAppMonkeyFinder.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\MyFirstAppMonkeyFinder\obj\Debug\netstandard2.0\MyFirstAppMonkeyFinder.GeneratedMSBuildEditorConfig.editorconfig

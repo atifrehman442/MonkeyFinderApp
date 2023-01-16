@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgWBP3LoUDGOVn94iZ1ghwvCIZ+8wJPttGxfSMs/nwQqRW2oRgiF0UzL0MiWiPfieuy8BcUgQNLJXh/jRoBh7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\MyFirstAppMonkeyFinder\\MyFirstAppMonkeyFinder\\MyFirstAppMonkeyFinder\\MyFirstAppMonkeyFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
